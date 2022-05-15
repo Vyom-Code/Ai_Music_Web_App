@@ -1,0 +1,21 @@
+body{
+    background-size:cover;
+}
+.note{
+  font-size:25px;
+  font-family: 'Times New Roman';
+  font-weight: bolder;  
+  padding: 0px;
+  margin:0px;
+  text-align: center;
+  width:100%;
+}
+
+canvas{
+    border-radius:100px;
+    width:200px;
+    box-shadow: 5px;
+    border-color: black;
+    padding:10px;
+}
+
